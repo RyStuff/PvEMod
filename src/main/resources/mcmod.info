@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pvemod",
+  "name": "PvEMod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheGeekyGuy101"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
